@@ -1,0 +1,19 @@
+body {
+	font-family: "Bilbo Swash Caps", cursive;
+	background: #ffffff;
+	background: -moz-linear-gradient(top, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
+	background: -webkit-linear-gradient(
+		top,
+		#ffffff 0%,
+		#f6f6f6 47%,
+		#ededed 100%
+	);
+	background: linear-gradient(to bottom, #ffffff 0%, #f6f6f6 47%, #ededed 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 );
+}
+.container--full-screen {
+	height: 100vh;
+}
+strong {
+	font-weight: 300;
+}
