@@ -17,3 +17,7 @@ body {
 strong {
 	font-weight: 300;
 }
+.preparation {
+	bottom: 25px;
+	left: 0;
+}
